@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../img/passion.jpg');
+    
+}
+
+.act {
+    color: yellow;
+    font-family: 'Rubik Marker Hatch', cursive;
+    text-decoration: none;
+    margin-left: 45px;
+    font-size: 20px;
+}
+
+.home {
+    color: gold;
+    font-family: 'Rubik Marker Hatch', cursive;
+    font-size: x-large;
+    text-indent: 25px;
+}
+
+.nav {
+    background-color: transparent;
+    text-align: center;
+}
+
+.links {
+    font-family: 'Rubik Marker Hatch', cursive;
+    text-decoration: none;
+    margin-left: 45px;
+    color: white;
+    font-size: 20px;
+}
+
+.description {
+    color: white;
+    text-indent: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+.descript {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}

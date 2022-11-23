@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch&display=swap');
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.60)), url('../img/fruita.jpg');
+    background-repeat: no-repeat;
+    
+}
+
+.act {
+    color: yellow;
+    font-family: 'Rubik Marker Hatch', cursive;
+    text-decoration: none;
+    margin-left: 45px;
+    font-size: 20px;
+}
+
+
+
+.home {
+    color: orangered;
+    text-align: center;
+    left: 0; 
+    line-height: 200px; 
+    margin-top: -100px; 
+    position: absolute; 
+    text-align: center; 
+    top: 50%; 
+    width: 100%;
+    font-size: 400%;
+    font-family: Cochin;
+}
+
+.nav {
+    background-color: transparent;
+    text-align: center;
+}
+
+.links {
+    font-family: 'Rubik Marker Hatch', cursive;
+    text-decoration: none;
+    margin-left: 45px;
+    color: white;
+    font-size: 20px;
+}
